@@ -1,0 +1,1 @@
+Place your logo.png and gym.jpg images in this folder.
